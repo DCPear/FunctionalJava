@@ -8,7 +8,7 @@
  * https://www.geeksforgeeks.org/function-interface-in-java-with-examples/
  * https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html
  */
-package com.company;
+package com.dcpear;
 
 import java.util.function.Function;
 

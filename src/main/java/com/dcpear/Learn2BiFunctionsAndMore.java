@@ -3,10 +3,10 @@
  * There is another functional programming interface in Java. And this interface is called BiFunction.
  * BIFunction<T,U,R>
  */
-package com.company;
+package com.dcpear;
 
-import com.company.ownInterfaces.NoArgsFunction;
-import com.company.ownInterfaces.TriFunction;
+import com.dcpear.ownInterfaces.NoArgsFunction;
+import com.dcpear.ownInterfaces.TriFunction;
 import java.util.function.BiFunction;
 
 /**

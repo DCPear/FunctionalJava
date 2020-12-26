@@ -1,4 +1,4 @@
-package com.company.ownInterfaces;
+package com.dcpear.ownInterfaces;
 
 /**
  * Take 3 arguments

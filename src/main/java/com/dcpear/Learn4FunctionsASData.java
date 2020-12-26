@@ -3,9 +3,9 @@
  * to specify what was done to that data.
  * This is one of the important things that first class functions let us do
  */
-package com.company;
+package com.dcpear;
 
-import com.company.ownInterfaces.NoArgsFunction;
+import com.dcpear.ownInterfaces.NoArgsFunction;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
